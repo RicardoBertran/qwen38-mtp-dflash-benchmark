@@ -1,0 +1,9 @@
+*.gguf
+*.log
+*.mp4
+*.mp3
+*.zip
+.env
+*.local.ini
+modelos.local.ini
+resultados-locales/
