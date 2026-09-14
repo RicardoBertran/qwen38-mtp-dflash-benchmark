@@ -1,0 +1,9 @@
+Devuelve únicamente código Python, sin explicaciones ni Markdown.
+
+Escribe un programa que lea un archivo access.log de Apache y muestre:
+
+- las 10 IP con más peticiones
+- las 10 rutas más visitadas
+- el número de respuestas 2xx, 3xx, 4xx y 5xx
+
+Debe aceptar la ruta del archivo por argumento, ignorar líneas corruptas, usar únicamente la biblioteca estándar y dividir la solución en funciones.
